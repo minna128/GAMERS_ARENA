@@ -30,11 +30,11 @@
 
     "screenshots": [
     {
-     "src": "icons/screenshot-desktop-upcoming.png", 
+      "src": "favicon_io/android-chrome-192x192.png", 
       "form_factor": "wide" 
     },
     {
-      "src": "icons/screenshot-mobile-upcoming.png",
+      "src": "favicon_io/android-chrome-512x512.png",
       "form_factor": "wide" 
     }
     ]
