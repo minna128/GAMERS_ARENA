@@ -30,11 +30,12 @@
 
     "screenshots": [
     {
-      "src": "favicon_io/screenshot-desktopview.png", 
+      "src": "favicon_io/screenshot-mobile.png", 
       "form_factor": "wide" 
     },
     {
-      "src":"favicon_io/screenshot-mobile.png" 
+      "src":"favicon_io/screenshot-mobile.png", 
+      "form_factor": "wide"
     }
     ]
  }
